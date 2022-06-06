@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72cc8a32.chunk.css",
+    "main.js": "/static/js/main.bae31d4c.chunk.js",
+    "main.js.map": "/static/js/main.bae31d4c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.00060668.js",
+    "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
+    "static/js/2.a6211613.chunk.js": "/static/js/2.a6211613.chunk.js",
+    "static/js/2.a6211613.chunk.js.map": "/static/js/2.a6211613.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7a3c21e03421c251eb04b522dcf6db9.js": "/precache-manifest.e7a3c21e03421c251eb04b522dcf6db9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.72cc8a32.chunk.css.map": "/static/css/main.72cc8a32.chunk.css.map",
+    "static/js/2.a6211613.chunk.js.LICENSE.txt": "/static/js/2.a6211613.chunk.js.LICENSE.txt",
+    "static/media/2.jpg": "/static/media/2.566b0375.jpg",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/gdg.png": "/static/media/gdg.6364dbb3.png",
+    "static/media/github.png": "/static/media/github.0ba2aa20.png",
+    "static/media/mlh-logo.svg": "/static/media/mlh-logo.bc5cfd3a.svg",
+    "static/media/mongo.png": "/static/media/mongo.f3ac3c60.png",
+    "static/media/notapreta.png": "/static/media/notapreta.29c28065.png",
+    "static/media/rbotics.png": "/static/media/rbotics.da1b7177.png",
+    "static/media/ssec.png": "/static/media/ssec.ea5550e2.png",
+    "static/media/ssgandhy.png": "/static/media/ssgandhy.b8232fe9.png",
+    "static/media/vipex.png": "/static/media/vipex.90787ea0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00060668.js",
+    "static/js/2.a6211613.chunk.js",
+    "static/css/main.72cc8a32.chunk.css",
+    "static/js/main.bae31d4c.chunk.js"
+  ]
+}
